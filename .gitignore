@@ -1,0 +1,7 @@
+*.json
+!package.json
+bin/*
+!bin/.gitignore
+libs/**/node_modules
+*.class
+
